@@ -1,0 +1,534 @@
+{
+  "id": "1504523",
+  "name": "芸豆会计",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13084907",
+      "name": "扫描客户端",
+      "font_class": "saomiaokehuduan1",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "12714118",
+      "name": "第三方支付",
+      "font_class": "disanfangzhifu-",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "12551493",
+      "name": "所有数据",
+      "font_class": "suoyoushuju-",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "12551336",
+      "name": "单据数据",
+      "font_class": "danjushuju-",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "12504295",
+      "name": "资产负债表",
+      "font_class": "zichanfuzhaibiao",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "12504040",
+      "name": "数量核算明细账",
+      "font_class": "shulianghesuanmingxizhang",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "12504041",
+      "name": "利润表",
+      "font_class": "lirunbiao",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "12503717",
+      "name": "社保公积金",
+      "font_class": "gongjijin",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "12503541",
+      "name": "专项附加扣除",
+      "font_class": "zhuanxiang",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "12502195",
+      "name": "待摊费用",
+      "font_class": "daitanfeiyong1",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "12502062",
+      "name": "往来统计表",
+      "font_class": "wanglaitongjibiao",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "12501726",
+      "name": "费用统计表",
+      "font_class": "feiyongtongjibiao",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "12501585",
+      "name": "收支统计表",
+      "font_class": "shouzhitongjibiao",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "12501481",
+      "name": "工商年报表",
+      "font_class": "gongshangnianbaobiao",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "12500419",
+      "name": "增值税报表",
+      "font_class": "zengzhishui",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "12500246",
+      "name": "多栏账",
+      "font_class": "duolanzhang",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "12500118",
+      "name": "结账",
+      "font_class": "jiezhang",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "12500119",
+      "name": "总账",
+      "font_class": "zongzhang",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "12500120",
+      "name": "明细账",
+      "font_class": "mingxizhang",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "12498085",
+      "name": "凭证票据关联表",
+      "font_class": "pingzhengpiaojuguanlianbiao",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "12497782",
+      "name": "权益变动表",
+      "font_class": "quanyibiandongbiao",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "12497783",
+      "name": "凭证列表",
+      "font_class": "pingzhengliebiao",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "12497785",
+      "name": "固定资产",
+      "font_class": "gudingzichan",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "12497786",
+      "name": "清除记录表",
+      "font_class": "qingchujilubiao",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "12497787",
+      "name": "科目期初",
+      "font_class": "kemuqichu",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "12497788",
+      "name": "无形资产",
+      "font_class": "wuxingzichan",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "12497790",
+      "name": "辅助核算",
+      "font_class": "fuzhuhesuan",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "12497792",
+      "name": "科目余额表",
+      "font_class": "kemuyuebiao",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "12497793",
+      "name": "现金流量表",
+      "font_class": "xianjinliuliangbiao",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "12497794",
+      "name": "品类管理",
+      "font_class": "pinleiguanli",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "12497795",
+      "name": "折旧明细账",
+      "font_class": "zhejiumingxizhang",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "12497796",
+      "name": "新增凭证",
+      "font_class": "xinzengpingzheng",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "12497798",
+      "name": "薪酬管理",
+      "font_class": "xinchouguanli",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "12497799",
+      "name": "数据中心",
+      "font_class": "shujuzhongxin",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "12497800",
+      "name": "库存核算",
+      "font_class": "kucunhesuan",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "12497803",
+      "name": "薪酬计算器",
+      "font_class": "xinchoujisuanqi",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "12497804",
+      "name": "社保计算器",
+      "font_class": "shebaojisuanqi",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "12497805",
+      "name": "生产成分分配表",
+      "font_class": "shengchanchengfenfenpeibiao",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "12497806",
+      "name": "数量核算余额表",
+      "font_class": "shulianghesuanyuebiao",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "12497807",
+      "name": "凭证汇总表",
+      "font_class": "pingzhenghuizongbiao",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "12497808",
+      "name": "暂估冲销统计表",
+      "font_class": "zanguchongxiaotongjibiao",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "12497809",
+      "name": "序时账",
+      "font_class": "xushizhang",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "12497815",
+      "name": "反结账",
+      "font_class": "fanjiezhang",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "12497816",
+      "name": "毛利率统计",
+      "font_class": "maolishuaitongji",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "12497817",
+      "name": "下载中心",
+      "font_class": "xiazaizhongxin",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "12495639",
+      "name": "历史导入2",
+      "font_class": "lishidaoru2",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "12495529",
+      "name": "历史导入",
+      "font_class": "lishidaoru",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "12433028",
+      "name": "远程",
+      "font_class": "yuancheng",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "12432902",
+      "name": "打印",
+      "font_class": "dayin",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "12432771",
+      "name": "浏览器",
+      "font_class": "liulanqi",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "12432642",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "12371282",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "12371247",
+      "name": "保存",
+      "font_class": "baocun",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "11905227",
+      "name": "概况2",
+      "font_class": "gaikuang2",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "11905164",
+      "name": "凭证2",
+      "font_class": "pingzheng2",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "11905066",
+      "name": "账簿2",
+      "font_class": "zhangbu2",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "11904971",
+      "name": "报表2",
+      "font_class": "baobiao2",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "11904667",
+      "name": "报表",
+      "font_class": "baobiao1",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "11904633",
+      "name": "辅助2",
+      "font_class": "fuzhu2",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11904581",
+      "name": "打印2",
+      "font_class": "dayin2",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "11904327",
+      "name": "设置",
+      "font_class": "shezhi1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "11904201",
+      "name": "设置2",
+      "font_class": "shezhi2",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "11902199",
+      "name": "打印",
+      "font_class": "dayin1",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "11894990",
+      "name": "辅助",
+      "font_class": "fuzhu1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "11894149",
+      "name": "账簿",
+      "font_class": "zhangbu1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11893940",
+      "name": "凭证",
+      "font_class": "pingzheng1",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "11893432",
+      "name": "概况",
+      "font_class": "gaikuang1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "11784780",
+      "name": "单据",
+      "font_class": "danju-",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "11784373",
+      "name": "附件",
+      "font_class": "fujian-",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11783951",
+      "name": "资产",
+      "font_class": "zichan-1",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "11783850",
+      "name": "自定义",
+      "font_class": "zidingyi-",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "11783302",
+      "name": "库存",
+      "font_class": "kucun-",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11763772",
+      "name": "银行",
+      "font_class": "yinhang-",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11763147",
+      "name": "成本/费用",
+      "font_class": "feiyong-",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11762098",
+      "name": "收入",
+      "font_class": "shouru-",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
