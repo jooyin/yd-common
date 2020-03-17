@@ -1,6 +1,6 @@
-# yundou-common
+# yd-common
 
-> yundou common project
+> yd common project
 
 ## Build Setup
 
@@ -17,5 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+# 打包命令 每次打包要修改版本号
+npm run package
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
